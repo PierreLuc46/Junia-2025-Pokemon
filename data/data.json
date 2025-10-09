@@ -1,6 +1,6 @@
 [
     {    
-      "pokedexId": 1,
+      "pokedexId": 6,
       "name": "Bulbizarre",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
       "stats": {
@@ -25,7 +25,7 @@
       "apiGeneration": 1
     },
     {
-      "pokedexId": 4,
+      "pokedexId": 455,
       "name": "Salamèche",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
       "stats": {
@@ -45,7 +45,7 @@
       "apiGeneration": 1
     },
     {
-      "pokedexId": 7,
+      "pokedexId": 158,
       "name": "Carapuce",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
       "stats": {
