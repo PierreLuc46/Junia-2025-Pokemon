@@ -82,3 +82,4 @@ async function loadPokemons(generation = 1) {
     pokemons.forEach(p => main.appendChild(p.displayCard()));
 }
 loadPokemons(1);
+
